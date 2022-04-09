@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637850086749516202
-    m_Hash: 559800554
+      ticks: 637850207895236360
+    m_Hash: 3740200345
   m_LockFileStatus:
     m_FilePath: C:/Users/lucia/Documents/GitHub/UNI_VR_Coursework/VR_coursework_SANDBOX/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637850086749625925
-    m_Hash: 2047205803
+      ticks: 637850207895286226
+    m_Hash: 2324110007
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
